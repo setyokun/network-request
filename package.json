@@ -1,0 +1,21 @@
+{
+  "name": "network-request",
+  "version": "1.0.0",
+  "description": "xhr practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "xhr",
+    "cypress"
+  ],
+  "author": "setyokun",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  },
+  "dependencies": {
+    "npx": "^10.2.2"
+  }
+}
